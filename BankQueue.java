@@ -4,7 +4,7 @@ import java.util.*;
 This is my solution to the Kattis problem Bank Queue.
 
 One can make two observations:
-    1. However many customers have been sserved so far, it is best to select a customer with 
+    1. However many customers have been served so far, it is best to select a customer with 
         the largest deposit size from the remaining customers.
     
     2. To minimize interference with other patrons, it is best for each patron to be served as late as possible.
